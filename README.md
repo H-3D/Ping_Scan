@@ -1,4 +1,4 @@
-# Ping Scan
+# Ping Scan:
 
 ## Description:
 

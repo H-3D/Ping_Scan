@@ -2,7 +2,7 @@
 
 ## Description:
 
-**'Ping_Scan.sh'** is a very simple BASH script that pings 255 IP addresses in a network with a subnet mask of 255.255.255.0
+**'Ping_Scan.sh'** is a very simple BASH script that pings 255 IP addresses in a network with a subnet mask of '255.255.255.0'.
 
 ### When executed, 'Ping_Scan.sh' prompts the user for:
 

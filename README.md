@@ -11,4 +11,4 @@
 3. **Packet Size**: Size of the ping packets (in bytes).
 4. **Number of Packets**: How many pings to send to each address.
 5. **Interval**: Time between each ping (in seconds).
-6. # [Ping_Scan](https://h-3d.github.io/Ping_Scan/)
+# [Ping_Scan](https://h-3d.github.io/Ping_Scan/)
